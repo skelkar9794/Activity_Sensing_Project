@@ -1,0 +1,5 @@
+[
+{"$type":"Sensus.Shared.Probes.Location.LocationDatum, Sensus.Android","Latitude":30.3042439,"Longitude":-97.7167636,"Accuracy":22.093000411987305,"Id":"f2ac2ec7-4969-4da8-8977-c727cbeac911","DeviceId":"e009d040232a2b50","Timestamp":"2016-10-20T18:30:52.82+00:00","ProtocolId":"df463a57-fd92-4d66-b6ca-683dfa1c2cb4","Anonymized":true},
+{"$type":"Sensus.Shared.Probes.Location.LocationDatum, Sensus.Android","Latitude":30.3042439,"Longitude":-97.7167636,"Accuracy":24.238000869750977,"Id":"30db794a-50bb-4566-aa11-22a01e52d688","DeviceId":"e009d040232a2b50","Timestamp":"2016-10-20T18:33:27.816+00:00","ProtocolId":"df463a57-fd92-4d66-b6ca-683dfa1c2cb4","Anonymized":true},
+{"$type":"Sensus.Shared.Probes.Location.LocationDatum, Sensus.Android","Latitude":30.3043386,"Longitude":-97.71686979,"Accuracy":8.0,"Id":"6158b203-4462-4383-9d1c-2977d4c987e8","DeviceId":"e009d040232a2b50","Timestamp":"2016-10-20T18:33:27+00:00","ProtocolId":"df463a57-fd92-4d66-b6ca-683dfa1c2cb4","Anonymized":true}
+]

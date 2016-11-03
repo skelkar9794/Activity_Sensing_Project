@@ -1,0 +1,7 @@
+[
+{"$type":"Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandHeartRateDatum, Sensus.Android","HeartRate":159.0,"Id":"cbd4fb16-e91e-46a3-b3b0-6d7925382350","DeviceId":"e009d040232a2b50","Timestamp":"2016-10-20T18:30:50.584418+00:00","ProtocolId":"df463a57-fd92-4d66-b6ca-683dfa1c2cb4","Anonymized":true},
+{"$type":"Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandHeartRateDatum, Sensus.Android","HeartRate":159.0,"Id":"d7a107e4-8bde-45d2-a2fb-0af794eac357","DeviceId":"e009d040232a2b50","Timestamp":"2016-10-20T18:30:51.735476+00:00","ProtocolId":"df463a57-fd92-4d66-b6ca-683dfa1c2cb4","Anonymized":true},
+{"$type":"Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandHeartRateDatum, Sensus.Android","HeartRate":70.0,"Id":"acf8c006-f99e-4b36-9262-008115d8cc9b","DeviceId":"e009d040232a2b50","Timestamp":"2016-10-20T18:33:27.983955+00:00","ProtocolId":"df463a57-fd92-4d66-b6ca-683dfa1c2cb4","Anonymized":true},
+{"$type":"Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandHeartRateDatum, Sensus.Android","HeartRate":70.0,"Id":"e9a09ff5-3fc7-4be1-bdbe-24baeaa84fd6","DeviceId":"e009d040232a2b50","Timestamp":"2016-10-20T18:33:29.930669+00:00","ProtocolId":"df463a57-fd92-4d66-b6ca-683dfa1c2cb4","Anonymized":true},
+{"$type":"Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandHeartRateDatum, Sensus.Android","HeartRate":70.0,"Id":"24362516-9057-4a3a-a192-edab7b725bd4","DeviceId":"e009d040232a2b50","Timestamp":"2016-10-20T18:33:30.959052+00:00","ProtocolId":"df463a57-fd92-4d66-b6ca-683dfa1c2cb4","Anonymized":true}
+]

@@ -1,0 +1,5 @@
+[
+{"$type":"Sensus.Shared.Probes.Movement.SpeedDatum, Sensus.Android","KPH":2.4345715146936486,"Accuracy":3.8300795555114746,"Id":"7a6a9692-4866-4d7b-9628-eb3eb638625e","DeviceId":"e009d040232a2b50","Timestamp":"2016-10-20T18:26:06+00:00","ProtocolId":"df463a57-fd92-4d66-b6ca-683dfa1c2cb4","Anonymized":true},
+{"$type":"Sensus.Shared.Probes.Movement.SpeedDatum, Sensus.Android","KPH":2.4345715146936486,"Accuracy":3.8300795555114746,"Id":"69b6a048-32d6-4e18-89be-8da0fe87cef9","DeviceId":"e009d040232a2b50","Timestamp":"2016-10-20T18:26:06+00:00","ProtocolId":"df463a57-fd92-4d66-b6ca-683dfa1c2cb4","Anonymized":true},
+{"$type":"Sensus.Shared.Probes.Movement.SpeedDatum, Sensus.Android","KPH":1.4756869513395661,"Accuracy":4.2986354827880859,"Id":"14d3b8a8-a0ae-457b-a146-1a921a661c82","DeviceId":"e009d040232a2b50","Timestamp":"2016-10-19T23:43:46.012+00:00","ProtocolId":"df463a57-fd92-4d66-b6ca-683dfa1c2cb4","Anonymized":true}
+]

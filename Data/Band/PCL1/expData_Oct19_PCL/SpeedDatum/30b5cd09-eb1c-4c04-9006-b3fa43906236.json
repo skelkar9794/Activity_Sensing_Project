@@ -1,0 +1,3 @@
+[
+{"$type":"Sensus.Shared.Probes.Movement.SpeedDatum, Sensus.Android","KPH":0.29138974104985105,"Accuracy":0.45301863551139832,"Id":"d77c4c28-3ac5-4b05-81fa-b119def3266a","DeviceId":"e009d040232a2b50","Timestamp":"2016-10-20T18:30:52.82+00:00","ProtocolId":"df463a57-fd92-4d66-b6ca-683dfa1c2cb4","Anonymized":true}
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "Anonymized": true, 
+    "$type": "Sensus.Shared.Probes.Movement.SpeedDatum, Sensus.Android", 
+    "DeviceId": "e009d040232a2b50", 
+    "Timestamp": "2016-10-28T22:25:14.967+00:00", 
+    "KPH": 1.8999935642716717, 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "4d28a8bf-e6f2-452b-a71e-81be1040f786", 
+    "Accuracy": 6.31254768371582
+  }, 
+  {
+    "Anonymized": true, 
+    "$type": "Sensus.Shared.Probes.Movement.SpeedDatum, Sensus.Android", 
+    "DeviceId": "e009d040232a2b50", 
+    "Timestamp": "2016-10-28T19:09:53.041+00:00", 
+    "KPH": 0.018573201878203292, 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "ecfdb07b-5ea3-4afe-81e7-2f0e02048796", 
+    "Accuracy": 0.038122016936540604
+  }, 
+  {
+    "Anonymized": true, 
+    "$type": "Sensus.Shared.Probes.Movement.SpeedDatum, Sensus.Android", 
+    "DeviceId": "e009d040232a2b50", 
+    "Timestamp": "2016-10-28T19:09:53.041+00:00", 
+    "KPH": 0.018855682668949127, 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "8445cdec-165a-44bc-8442-9b6a92cc7254", 
+    "Accuracy": 0.0386938750743866
+  }, 
+  {
+    "Anonymized": true, 
+    "$type": "Sensus.Shared.Probes.Movement.SpeedDatum, Sensus.Android", 
+    "DeviceId": "e009d040232a2b50", 
+    "Timestamp": "2016-10-28T20:46:18.038+00:00", 
+    "KPH": 0.01964651645779044, 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "ca3c5407-1664-4eb4-b3fd-3154370688ff", 
+    "Accuracy": 0.03135805204510689
+  }, 
+  {
+    "Anonymized": true, 
+    "$type": "Sensus.Shared.Probes.Movement.SpeedDatum, Sensus.Android", 
+    "DeviceId": "e009d040232a2b50", 
+    "Timestamp": "2016-10-28T20:46:18.038+00:00", 
+    "KPH": 0.01964651645779044, 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "4596615f-c058-4431-b3f3-ed996541af38", 
+    "Accuracy": 0.03135805204510689
+  }, 
+  {
+    "Anonymized": true, 
+    "$type": "Sensus.Shared.Probes.Movement.SpeedDatum, Sensus.Android", 
+    "DeviceId": "e009d040232a2b50", 
+    "Timestamp": "2016-10-29T03:27:47+00:00", 
+    "KPH": 0.8896201025856184, 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "c342d43b-593c-48e4-8e29-22bb5752cfe1", 
+    "Accuracy": 2.188539743423462
+  }, 
+  {
+    "Anonymized": true, 
+    "$type": "Sensus.Shared.Probes.Movement.SpeedDatum, Sensus.Android", 
+    "DeviceId": "e009d040232a2b50", 
+    "Timestamp": "2016-10-29T03:27:47+00:00", 
+    "KPH": 0.8896201025856184, 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "62eec968-c037-4085-a83b-2e1141568579", 
+    "Accuracy": 2.188539743423462
+  }, 
+  {
+    "Anonymized": true, 
+    "$type": "Sensus.Shared.Probes.Movement.SpeedDatum, Sensus.Android", 
+    "DeviceId": "e009d040232a2b50", 
+    "Timestamp": "2016-10-28T19:16:13.151+00:00", 
+    "KPH": 0.3317564107871991, 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "8ea3fc97-3282-4ee7-b386-3130b893e846", 
+    "Accuracy": 0.4401620626449585
+  }, 
+  {
+    "Anonymized": true, 
+    "$type": "Sensus.Shared.Probes.Movement.SpeedDatum, Sensus.Android", 
+    "DeviceId": "e009d040232a2b50", 
+    "Timestamp": "2016-10-28T19:16:13.151+00:00", 
+    "KPH": 0.3317564107871991, 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "7ed9c132-2885-40a6-acff-0a012cc21e43", 
+    "Accuracy": 0.4401620626449585
+  }, 
+  {
+    "Anonymized": true, 
+    "$type": "Sensus.Shared.Probes.Movement.SpeedDatum, Sensus.Android", 
+    "DeviceId": "e009d040232a2b50", 
+    "Timestamp": "2016-10-28T19:16:33.201+00:00", 
+    "KPH": 5.657197266953871, 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "8bb9f842-bcdf-4eaf-b422-66eb04524883", 
+    "Accuracy": 8.88831901550293
+  }, 
+  {
+    "Anonymized": true, 
+    "$type": "Sensus.Shared.Probes.Movement.SpeedDatum, Sensus.Android", 
+    "DeviceId": "e009d040232a2b50", 
+    "Timestamp": "2016-10-28T19:16:33.201+00:00", 
+    "KPH": 5.657197266953871, 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "8eefe3e0-19ba-4e5c-bb0c-e0cfd632b5da", 
+    "Accuracy": 8.88831901550293
+  }
+]

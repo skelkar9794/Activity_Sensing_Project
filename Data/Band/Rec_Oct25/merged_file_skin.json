@@ -1,0 +1,1775 @@
+[
+  {
+    "Temperature": 28.770000457763672, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:15:05.528767+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "022ffb8b-59f6-49f2-a9dd-461eadb6a097"
+  }, 
+  {
+    "Temperature": 28.700000762939453, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:15:36.467106+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "06411c62-ac8c-421e-ab70-bb26fde3bfad"
+  }, 
+  {
+    "Temperature": 28.690000534057617, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:16:07.374723+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "f4b25b4a-5842-4ef9-97e2-81d11102fa87"
+  }, 
+  {
+    "Temperature": 28.65999984741211, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:16:38.303939+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "30dfb710-0139-4326-90f0-57ad0c959301"
+  }, 
+  {
+    "Temperature": 28.719999313354492, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:17:09.228939+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "c00418d9-f1b8-47ad-8b73-311af73e84c6"
+  }, 
+  {
+    "Temperature": 28.8700008392334, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:17:40.159633+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "a0b679a7-378b-4ac5-aeed-cd84a1d3e77e"
+  }, 
+  {
+    "Temperature": 29.020000457763672, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:18:11.079547+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "0841eb1c-ede8-4c79-9b86-8a79584baa64"
+  }, 
+  {
+    "Temperature": 29.139999389648438, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:18:42.00824+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "01ce8c9d-9ff1-4479-8719-92eb33935cfc"
+  }, 
+  {
+    "Temperature": 29.239999771118164, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:19:12.927192+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "793a0ee8-51ea-4703-848e-a8acf88a20bc"
+  }, 
+  {
+    "Temperature": 29.299999237060547, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:19:43.853391+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "9fffe7c1-93b1-4cf9-b265-2562707e674d"
+  }, 
+  {
+    "Temperature": 29.309999465942383, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:20:14.777327+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "19381b09-7a57-48e4-ae24-088557ae41ac"
+  }, 
+  {
+    "Temperature": 29.350000381469727, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:20:45.698234+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "fd7e138a-3aad-427f-8871-3b07d0f31765"
+  }, 
+  {
+    "Temperature": 29.40999984741211, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:21:16.625255+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "a44dfbd3-e474-4f9f-a8ee-b8905df98654"
+  }, 
+  {
+    "Temperature": 29.510000228881836, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:21:47.553255+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "a52f1d75-90c8-43c4-85a4-ce1329d3ad4d"
+  }, 
+  {
+    "Temperature": 29.540000915527344, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:22:18.471319+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "70cce00a-404f-456c-a00d-91db4cb2b2d4"
+  }, 
+  {
+    "Temperature": 29.56999969482422, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:22:49.398151+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "714170a1-112d-4484-88d8-c7cdbb0e36b8"
+  }, 
+  {
+    "Temperature": 29.6299991607666, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:23:20.321115+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "9e81102b-93bc-4c97-bd3e-1f2ba6549e82"
+  }, 
+  {
+    "Temperature": 29.65999984741211, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:23:51.255986+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "912beb91-40da-45e7-a20d-2923a82635c6"
+  }, 
+  {
+    "Temperature": 29.579999923706055, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:24:22.163333+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "8a9a08e0-25ab-45e7-bacc-faf25af11c23"
+  }, 
+  {
+    "Temperature": 29.489999771118164, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:24:53.100262+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "95442274-dc58-490b-9e12-16d1b8bc8c72"
+  }, 
+  {
+    "Temperature": 29.389999389648438, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:25:24.019928+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "b6ab1351-1437-4a76-a5f6-2a93fdaa7edd"
+  }, 
+  {
+    "Temperature": 29.15999984741211, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:11:59.985277+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "b27c6e41-489c-426b-a398-299799c9172e"
+  }, 
+  {
+    "Temperature": 29.079999923706055, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:12:30.923552+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "f3d98fb0-dad3-405e-955f-f6ddf4aa5d20"
+  }, 
+  {
+    "Temperature": 28.950000762939453, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:13:01.838565+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "f1d0e2d3-f0f6-490b-8359-4e5c7a487b3a"
+  }, 
+  {
+    "Temperature": 28.8700008392334, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:13:32.758165+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "5c0d7f8f-4cfa-42f3-b11a-b6b15abbd776"
+  }, 
+  {
+    "Temperature": 28.790000915527344, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:14:03.680588+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "bc3b2b44-56b7-4096-8641-67168a7934ed"
+  }, 
+  {
+    "Temperature": 28.790000915527344, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:14:34.618217+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "6fc93cff-cdf7-449a-a457-a43022a0aeaa"
+  }, 
+  {
+    "Temperature": 28.440000534057617, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T00:40:25.203408+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "002ac154-3ca1-433f-9a49-bb9007a1d796"
+  }, 
+  {
+    "Temperature": 28.360000610351562, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T00:40:55.977292+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "b04d611f-1505-4ae6-b5c8-f0aeaffc889c"
+  }, 
+  {
+    "Temperature": 28.34000015258789, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T00:41:26.935337+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "e21af7ad-0c08-4836-9b1c-9a1214af901e"
+  }, 
+  {
+    "Temperature": 28.350000381469727, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T00:39:23.250054+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "855625c9-358d-4f3d-a46c-bda7a9f36802"
+  }, 
+  {
+    "Temperature": 28.40999984741211, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T00:39:54.138235+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "847bfd84-35e5-469f-b2cc-dea640206c68"
+  }, 
+  {
+    "Temperature": 25.979999542236328, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:03:19.511784+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "8ea03ee8-7586-4823-8600-2098c66b66be"
+  }, 
+  {
+    "Temperature": 26.0, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:03:46.193162+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "3f3156ba-dd1f-4407-8c2d-e107dc5d7482"
+  }, 
+  {
+    "Temperature": 28.299999237060547, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T00:50:43.545517+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "76fe8b3e-ad96-456c-9da1-d19f578b75ae"
+  }, 
+  {
+    "Temperature": 28.360000610351562, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T00:51:14.490661+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "bafaf684-1937-4f2e-b3da-1f926ee814a8"
+  }, 
+  {
+    "Temperature": 28.450000762939453, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T00:51:45.409133+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "5d65fad9-2750-4d6f-9653-9a03f8843531"
+  }, 
+  {
+    "Temperature": 27.899999618530273, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T00:44:01.536321+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "257520ed-1a5e-495b-a1ad-8a0407b78eb3"
+  }, 
+  {
+    "Temperature": 27.8799991607666, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T00:44:32.446521+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "15a22427-7b97-42a1-8b80-250df23f77c1"
+  }, 
+  {
+    "Temperature": 26.920000076293945, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:14:27.491115+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "24d162cc-500a-4e86-a30f-081466825f68"
+  }, 
+  {
+    "Temperature": 26.829999923706055, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:15:00.683977+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "75c3286a-a583-45c4-8c03-d7bc07770aa3"
+  }, 
+  {
+    "Temperature": 27.290000915527344, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:17:36.191538+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "0fade158-29f0-47c2-a539-3aee1d005d75"
+  }, 
+  {
+    "Temperature": 27.450000762939453, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:18:09.689476+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "b9f3268e-05fa-410c-9980-7f4a8027954f"
+  }, 
+  {
+    "Temperature": 27.850000381469727, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:26:18.892174+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "9f84fc00-c798-4992-a0a7-1725795cada3"
+  }, 
+  {
+    "Temperature": 27.690000534057617, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:26:49.696239+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "2f9f4cff-68ce-4ee6-ba11-adb1f9a81aa2"
+  }, 
+  {
+    "Temperature": 26.790000915527344, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:13:25.657707+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "9b0c37df-e1c2-4824-bb07-f75ea19b5170"
+  }, 
+  {
+    "Temperature": 26.829999923706055, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:13:57.698004+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "1dfcd588-ab19-4eb4-b61e-8c15f2ed39f2"
+  }, 
+  {
+    "Temperature": 25.229999542236328, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T00:59:01.503234+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "2cda3f56-5cfd-4496-91df-9165c58cc59b"
+  }, 
+  {
+    "Temperature": 25.450000762939453, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T00:59:30.761739+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "4582b5cd-5362-4828-b917-eb0cd1d1ca83"
+  }, 
+  {
+    "Temperature": 28.25, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T00:47:38.020439+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "160e90bd-fca5-4720-bb85-b7dadceb2c90"
+  }, 
+  {
+    "Temperature": 28.260000228881836, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T00:48:08.948292+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "ee482a31-44d3-4d82-afdc-3ce8d32541db"
+  }, 
+  {
+    "Temperature": 27.770000457763672, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:27:20.644236+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "92ee98af-346e-4a34-adc3-fca9244f313f"
+  }, 
+  {
+    "Temperature": 27.760000228881836, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:27:51.550193+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "8283df2c-0faf-4bfd-849e-fd4d19c18dfb"
+  }, 
+  {
+    "Temperature": 27.530000686645508, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T00:54:20.07985+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "d8fe8b14-8cc8-4765-860c-f89ca1e62ce7"
+  }, 
+  {
+    "Temperature": 25.6299991607666, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:00:10.915708+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "8d429bf6-816a-4374-b65d-41466faa6a69"
+  }, 
+  {
+    "Temperature": 28.299999237060547, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T00:41:57.834823+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "bced60ea-d646-4c7c-9d6a-ed052551787c"
+  }, 
+  {
+    "Temperature": 28.209999084472656, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T00:42:28.747429+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "90ee02b8-5bcb-43e3-a26c-679696f398a4"
+  }, 
+  {
+    "Temperature": 28.360000610351562, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T00:52:16.355875+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "5ea2baea-375c-4b49-ab9d-42e729eed2b5"
+  }, 
+  {
+    "Temperature": 28.190000534057617, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T00:52:47.240464+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "fbe3400c-8430-496b-868a-dacc7c4ef76f"
+  }, 
+  {
+    "Temperature": 25.649999618530273, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:01:11.842683+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "a280bd8a-a93e-4105-aca5-1df5c1d95c9d"
+  }, 
+  {
+    "Temperature": 25.649999618530273, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:01:16.800566+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "13d742c3-528b-4116-bcaa-bb6f5ff62f15"
+  }, 
+  {
+    "Temperature": 25.8799991607666, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:01:34.465348+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "6a86ec81-3641-42e9-a40c-4a80baf7c9df"
+  }, 
+  {
+    "Temperature": 27.469999313354492, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:19:28.189531+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "60399ab2-acfb-43dd-a38a-c907c59e324e"
+  }, 
+  {
+    "Temperature": 27.450000762939453, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:19:38.770671+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "90e117f4-e7ce-4516-b1ad-7d41bce8adac"
+  }, 
+  {
+    "Temperature": 28.350000381469727, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T00:49:41.708005+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "ff38c2d2-9683-4aa5-a031-77417b9d60a6"
+  }, 
+  {
+    "Temperature": 28.420000076293945, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T00:50:12.65482+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "15b657c5-52e3-4cb1-8e2b-ec7615ca9dfe"
+  }, 
+  {
+    "Temperature": 26.84000015258789, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:15:29.371185+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "ef12d810-42f7-4ea2-9de2-2cf32c40183a"
+  }, 
+  {
+    "Temperature": 26.889999389648438, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:16:03.689985+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "28965d72-c2b4-4a22-9b4b-b75277359db7"
+  }, 
+  {
+    "Temperature": 25.969999313354492, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:04:22.980328+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "0f6cb244-0518-41f5-8c22-a38be266b7e4"
+  }, 
+  {
+    "Temperature": 26.059999465942383, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:04:52.189289+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "dcbdfbd8-57ab-4984-ad14-07fee4ef89cb"
+  }, 
+  {
+    "Temperature": 28.200000762939453, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T00:33:12.114126+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "40f1ebde-c019-4b31-81ee-242ae81231e8"
+  }, 
+  {
+    "Temperature": 28.18000030517578, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T00:33:43.053936+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "ed16b61d-432d-4d27-b664-ca339de34239"
+  }, 
+  {
+    "Temperature": 28.329999923706055, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T00:34:13.969449+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "f7cab2a2-452b-45fa-8686-1df0bce30dea"
+  }, 
+  {
+    "Temperature": 26.959999084472656, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:41:50.194258+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "130e4e3f-4ff7-422a-ab7a-6c6118ebadc2"
+  }, 
+  {
+    "Temperature": 27.079999923706055, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:42:19.04186+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "65b908ce-7f78-418e-8c36-f30645cbdbdc"
+  }, 
+  {
+    "Temperature": 27.899999618530273, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T00:45:03.391035+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "b1831828-2a0d-4e75-81c6-1224c350fd0d"
+  }, 
+  {
+    "Temperature": 28.049999237060547, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T00:45:34.317108+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "06cd76e2-baf9-4455-a363-203452bdeff3"
+  }, 
+  {
+    "Temperature": 26.09000015258789, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:39:47.691383+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "3058909c-9b19-4e5b-8166-2665032dab3e"
+  }, 
+  {
+    "Temperature": 26.280000686645508, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:40:15.365121+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "b7ae0dfd-ec6c-46d7-8a65-f3439a69c566"
+  }, 
+  {
+    "Temperature": 27.90999984741211, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:24:32.190231+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "251cbede-71f6-4c12-a274-ef4e3d0012a5"
+  }, 
+  {
+    "Temperature": 27.90999984741211, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:24:46.630043+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "2268a969-26d8-42e3-bb52-6c37992592b3"
+  }, 
+  {
+    "Temperature": 25.950000762939453, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:38:45.689397+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "df1062bf-5329-44b6-b8c8-e395062c5615"
+  }, 
+  {
+    "Temperature": 25.969999313354492, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:39:16.183232+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "97411ed3-ddff-4074-bc0e-695f3a5a4c43"
+  }, 
+  {
+    "Temperature": 28.010000228881836, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T00:53:18.168991+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "b1d4188e-2df4-434e-b8e8-5693b3d10808"
+  }, 
+  {
+    "Temperature": 27.729999542236328, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T00:53:49.098746+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "726befc1-7947-497f-aee9-0a966a875206"
+  }, 
+  {
+    "Temperature": 28.170000076293945, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T00:48:39.84165+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "549ac423-e2fc-40b7-b7c7-852c161e0c54"
+  }, 
+  {
+    "Temperature": 28.219999313354492, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T00:49:10.781696+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "64f27932-46fc-44f7-b8a2-14815ea7e6da"
+  }, 
+  {
+    "Temperature": 27.889999389648438, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:23:31.188362+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "22f7ddeb-db84-4ac6-a70b-9c6e4103a85b"
+  }, 
+  {
+    "Temperature": 27.81999969482422, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:23:46.726879+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "7a7213b3-5771-41dd-8fc9-2f3ede8bab55"
+  }, 
+  {
+    "Temperature": 27.809999465942383, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:25:44.955108+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "d44516a5-77ff-4b4a-8f45-14793ebdf1a6"
+  }, 
+  {
+    "Temperature": 27.799999237060547, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:25:47.882631+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "aed41078-415d-492a-b8c3-666e5912228b"
+  }, 
+  {
+    "Temperature": 27.68000030517578, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:28:22.602828+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "4cc65748-f358-4641-a5ad-efb1e37aa191"
+  }, 
+  {
+    "Temperature": 27.65999984741211, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:28:53.39781+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "c3499773-bfb2-4e71-b669-0324fa29d7e9"
+  }, 
+  {
+    "Temperature": 27.020000457763672, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:16:31.245274+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "5011d714-90cf-43b2-8d51-9dfeb8a71a74"
+  }, 
+  {
+    "Temperature": 27.139999389648438, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:17:07.201259+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "f362340d-be9a-4ad2-a1df-e9dacb88d6b0"
+  }, 
+  {
+    "Temperature": 27.59000015258789, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T00:31:39.360422+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "8ab01b4c-c6a6-4d2d-8c50-c44d228fd8a9"
+  }, 
+  {
+    "Temperature": 27.790000915527344, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T00:32:10.268819+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "c616a6a3-ac3f-4ec5-873a-29bd5256db6e"
+  }, 
+  {
+    "Temperature": 28.079999923706055, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T00:32:41.280965+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "ddec412a-fdc4-457d-a8c2-85a3f181a047"
+  }, 
+  {
+    "Temperature": 28.420000076293945, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T00:34:44.900874+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "c6237f14-e32f-4313-84e3-351e74f59e30"
+  }, 
+  {
+    "Temperature": 28.459999084472656, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T00:35:15.830416+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "6ada453b-3387-49ae-bc41-d6f9d6ca0794"
+  }, 
+  {
+    "Temperature": 31.8799991607666, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T00:58:32.019986+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "7d6acdb7-e423-4cd1-8e62-3eac367295a1"
+  }, 
+  {
+    "Temperature": 27.149999618530273, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-20T19:05:06.409213+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "0888ba55-0b30-4139-9668-1f8871823499"
+  }, 
+  {
+    "Temperature": 31.729999542236328, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T00:58:35.949501+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "0f3d6c41-c79b-471e-adb4-2a1e2bdc2f38"
+  }, 
+  {
+    "Temperature": 31.739999771118164, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T00:59:06.915834+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "2c859ac5-c681-4a94-9cc6-c187e6d45b11"
+  }, 
+  {
+    "Temperature": 31.75, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T00:59:37.854161+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "c1d318c6-c2aa-4d8a-8ca8-6c63a2afdf7c"
+  }, 
+  {
+    "Temperature": 31.75, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:00:08.724966+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "bf949a38-1286-43e4-abec-2fed72b6d8d9"
+  }, 
+  {
+    "Temperature": 31.6299991607666, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:00:39.652265+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "26daa6c8-315a-4212-a4f0-2e1921baba1d"
+  }, 
+  {
+    "Temperature": 31.459999084472656, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:01:10.581036+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "5a7cecb2-3be1-4532-88f3-df3b0a2233ee"
+  }, 
+  {
+    "Temperature": 31.360000610351562, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:01:41.497437+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "81515c2b-3256-415f-8062-b25f5acee7df"
+  }, 
+  {
+    "Temperature": 31.209999084472656, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:02:12.451148+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "cb584d0c-f881-43d7-a3bd-60c51626e3e4"
+  }, 
+  {
+    "Temperature": 31.020000457763672, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:02:43.350856+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "3196c243-ffc0-4052-8af7-3b8a0956a65e"
+  }, 
+  {
+    "Temperature": 30.8799991607666, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:03:14.276085+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "b62f3e05-ec26-4442-a542-4b8a77d66172"
+  }, 
+  {
+    "Temperature": 30.75, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:03:45.305772+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "a863b091-4cd0-4cf3-90f0-1e5c35f00225"
+  }, 
+  {
+    "Temperature": 30.65999984741211, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:04:16.113989+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "7bf27f11-ce30-4089-afad-b95e7ba4b975"
+  }, 
+  {
+    "Temperature": 30.600000381469727, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:04:47.039624+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "ecbcb5ba-efa8-45a4-8927-f0063d2ab783"
+  }, 
+  {
+    "Temperature": 30.56999969482422, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:05:17.967042+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "d82ab303-97f0-4e45-a53d-0f6fa2517e93"
+  }, 
+  {
+    "Temperature": 30.40999984741211, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:05:48.8893+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "cf1ef776-f97a-424b-8967-ece56cdc1ef9"
+  }, 
+  {
+    "Temperature": 30.190000534057617, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:06:19.816517+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "dfa22cd3-0d26-41df-90d6-d4eb7103be33"
+  }, 
+  {
+    "Temperature": 30.079999923706055, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:06:50.737746+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "c081514a-3da8-44ef-8585-2e22e14addf0"
+  }, 
+  {
+    "Temperature": 29.93000030517578, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:07:21.67463+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "50ff947c-f70e-4bb4-9935-3308c8139cdc"
+  }, 
+  {
+    "Temperature": 29.81999969482422, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:07:52.595888+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "38591be8-d962-42fb-93d6-e11823020256"
+  }, 
+  {
+    "Temperature": 29.739999771118164, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:08:23.515364+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "444e2eec-aa44-449e-a718-fc84f2066bb3"
+  }, 
+  {
+    "Temperature": 29.690000534057617, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:08:54.437278+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "b7e7bde7-7685-4e2d-8a40-c0d3afeb2b0a"
+  }, 
+  {
+    "Temperature": 29.65999984741211, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:09:25.397989+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "ccd6d958-9218-479e-833b-313dcd491eb1"
+  }, 
+  {
+    "Temperature": 29.579999923706055, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:09:56.278235+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "4513ce83-bc41-4863-ae1a-aa6e729b8175"
+  }, 
+  {
+    "Temperature": 29.469999313354492, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:10:27.206174+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "ff29e4f5-6e4e-4e4c-bba7-af9ca5a74705"
+  }, 
+  {
+    "Temperature": 29.399999618530273, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:10:58.132642+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "94b7aa8f-808e-4af0-ab93-bebdc0de28eb"
+  }, 
+  {
+    "Temperature": 29.270000457763672, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:11:29.069755+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "9d9fad05-7ea9-40f5-962d-7b0555a5b58c"
+  }, 
+  {
+    "Temperature": 26.040000915527344, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:05:56.189081+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "669db8d8-499e-447c-adb9-b46f3b04f38e"
+  }, 
+  {
+    "Temperature": 27.200000762939453, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:42:54.189991+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "df1ef70d-cda0-4f36-b99f-5c145f540b92"
+  }, 
+  {
+    "Temperature": 27.3700008392334, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:43:31.18925+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "9dc5f171-b8e3-43e7-8a6f-f1bed1a18d2f"
+  }, 
+  {
+    "Temperature": 28.0, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T00:42:59.678348+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "d6b3de08-01aa-420e-9f26-dbae58f04b64"
+  }, 
+  {
+    "Temperature": 27.920000076293945, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T00:43:30.610737+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "d14957a2-06d1-4b37-8d31-a90e2b91a819"
+  }, 
+  {
+    "Temperature": 26.549999237060547, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:12:23.819706+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "5b61efdc-b267-4f12-a04e-5ea4c5b7be25"
+  }, 
+  {
+    "Temperature": 26.59000015258789, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:12:54.744259+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "73553378-0d51-457c-bb29-9ab499e9c5d0"
+  }, 
+  {
+    "Temperature": 27.3799991607666, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:20:33.270132+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "c747149e-2294-4a03-83a1-e46b41a92520"
+  }, 
+  {
+    "Temperature": 29.290000915527344, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:25:54.966311+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "3c962fb8-51ba-48e9-b626-c4f6009ff3ea"
+  }, 
+  {
+    "Temperature": 29.260000228881836, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:26:25.861883+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "8c7e5c1d-694f-45cf-8464-cda86c593325"
+  }, 
+  {
+    "Temperature": 29.270000457763672, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:26:56.78922+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "7dfce021-f9d9-4cba-a7ff-f10b640eb2a6"
+  }, 
+  {
+    "Temperature": 29.290000915527344, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:27:27.73345+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "aed49fc2-7aa1-430d-837a-b2b4a8f58dec"
+  }, 
+  {
+    "Temperature": 29.229999542236328, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:27:58.657102+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "e52cb5ff-5687-4aaa-a39f-df68a9627902"
+  }, 
+  {
+    "Temperature": 29.079999923706055, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:28:29.568295+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "816c6ba7-51c1-4221-bc02-cf4f5c8a8631"
+  }, 
+  {
+    "Temperature": 28.969999313354492, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:29:00.498161+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "d8ac641c-cd94-4bb3-bc8b-e86637f3bdcd"
+  }, 
+  {
+    "Temperature": 28.93000030517578, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:29:31.418609+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "b89444ff-696a-471e-a4cb-190da4c66f61"
+  }, 
+  {
+    "Temperature": 28.899999618530273, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:30:02.346459+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "88610375-f0a9-4416-a237-1dff89b1af2c"
+  }, 
+  {
+    "Temperature": 28.799999237060547, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:30:33.278786+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "98c85d6a-01a0-46b2-835a-bce9e81bf910"
+  }, 
+  {
+    "Temperature": 28.850000381469727, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:31:04.189142+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "7b809da9-7d54-4937-9086-650664af3ad3"
+  }, 
+  {
+    "Temperature": 28.899999618530273, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:31:35.118038+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "b3c5f2e3-5f37-4219-b90d-1ab39f501237"
+  }, 
+  {
+    "Temperature": 28.959999084472656, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:32:06.203597+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "bad4e751-4750-40a9-aa32-72609fca0c56"
+  }, 
+  {
+    "Temperature": 29.059999465942383, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:32:36.986502+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "e1747ddf-07a9-4e0e-8403-9b929afb51c4"
+  }, 
+  {
+    "Temperature": 29.15999984741211, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:33:07.895462+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "88292284-a2b2-4631-861c-83cabf63b6cc"
+  }, 
+  {
+    "Temperature": 29.299999237060547, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:33:38.816779+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "135edd98-acca-4d37-ab77-d75f098204b7"
+  }, 
+  {
+    "Temperature": 29.399999618530273, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:34:09.752524+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "e9a7c02d-c491-4ad9-8345-266b3edcdad8"
+  }, 
+  {
+    "Temperature": 29.459999084472656, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:34:40.655248+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "2aa680c9-c06d-4866-833a-779fb3049f2f"
+  }, 
+  {
+    "Temperature": 29.540000915527344, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:35:11.592805+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "674b57cb-249f-4b51-a7a0-0909e013deb7"
+  }, 
+  {
+    "Temperature": 29.610000610351562, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:35:42.512757+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "8b419ff5-435f-4f70-b7c9-3950bdc719ea"
+  }, 
+  {
+    "Temperature": 29.670000076293945, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:36:13.445018+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "23d6c4c0-dd77-4903-8c9b-985070b6c174"
+  }, 
+  {
+    "Temperature": 29.68000030517578, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:36:44.359639+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "e0b10a0d-7f35-4a58-9ad6-1620d87ba665"
+  }, 
+  {
+    "Temperature": 29.700000762939453, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:37:15.280342+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "1a204d3c-c0ce-4615-9161-a60da9f8a054"
+  }, 
+  {
+    "Temperature": 29.799999237060547, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:37:46.208981+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "4a17c682-b4e1-4490-b8bc-690077c4405a"
+  }, 
+  {
+    "Temperature": 29.829999923706055, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-21T01:38:17.148065+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "3313280e-a009-43f2-9c69-f1c8991fcec7"
+  }, 
+  {
+    "Temperature": 26.829999923706055, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:31:42.682614+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "e89f6ab6-abff-43ca-8e31-3af6cb3895e2"
+  }, 
+  {
+    "Temperature": 25.8700008392334, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:08:28.861559+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "cfbdd7f6-4fdb-4b18-9abc-71707a808fe6"
+  }, 
+  {
+    "Temperature": 26.010000228881836, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:02:14.97531+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "a1c479c3-8ab8-4f4e-82ac-79ce9eb3e398"
+  }, 
+  {
+    "Temperature": 26.020000457763672, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:02:47.196292+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "d54cbc68-995b-4c26-9156-0ccafd8e6313"
+  }, 
+  {
+    "Temperature": 26.229999542236328, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:38:09.827598+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "71db0d4b-fd7f-458f-be5d-a3aa3f52f8fe"
+  }, 
+  {
+    "Temperature": 26.020000457763672, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:38:11.684406+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "e02951f8-9e0f-4318-9eac-c3b4873bbfed"
+  }, 
+  {
+    "Temperature": 28.530000686645508, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T00:38:21.37915+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "066d233b-a185-4e3c-8990-fb64f3e1cc77"
+  }, 
+  {
+    "Temperature": 28.3799991607666, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T00:38:52.309688+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "cc03d514-68a1-4945-a56f-62c7edfa1576"
+  }, 
+  {
+    "Temperature": 28.450000762939453, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T00:35:46.759255+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "2dd9fa7c-5e6b-4993-9714-560f25f90937"
+  }, 
+  {
+    "Temperature": 28.510000228881836, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T00:36:17.667704+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "223bfa9c-31de-47d9-ab51-5b04c324774c"
+  }, 
+  {
+    "Temperature": 28.56999969482422, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T00:36:48.591354+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "8fe81720-a2e6-48bc-9399-a81f6ae765ef"
+  }, 
+  {
+    "Temperature": 27.3799991607666, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:29:51.042369+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "03a45078-b03b-47fd-8e23-0325cf502b51"
+  }, 
+  {
+    "Temperature": 27.15999984741211, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:30:00.683826+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "4765f07d-0bba-4750-962a-752d2ea40f65"
+  }, 
+  {
+    "Temperature": 28.110000610351562, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T00:46:05.232254+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "23da3035-1971-4a9b-872e-751b873e41c9"
+  }, 
+  {
+    "Temperature": 28.059999465942383, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T00:46:36.173554+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "ebd095ee-74e6-4545-9ec0-d12ba2bb6157"
+  }, 
+  {
+    "Temperature": 28.1200008392334, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T00:47:07.11418+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "7271fd14-404f-44db-84b1-eba245a00274"
+  }, 
+  {
+    "Temperature": 25.729999542236328, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:06:57.668045+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "bafca041-65b9-470e-a7d2-d78d5e4ade9f"
+  }, 
+  {
+    "Temperature": 25.760000228881836, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:07:14.567918+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "0afde703-3def-4ca1-8011-3e4c285c8abf"
+  }, 
+  {
+    "Temperature": 26.979999542236328, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:30:35.69384+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "8c212acc-43d8-4308-b596-b4015ad3d178"
+  }, 
+  {
+    "Temperature": 28.610000610351562, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T00:37:19.512803+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "acfd5ec1-561b-4138-8abd-0f05fcee934b"
+  }, 
+  {
+    "Temperature": 28.600000381469727, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T00:37:50.441109+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "01a033b8-dd83-477b-b727-556989d5df32"
+  }, 
+  {
+    "Temperature": 26.1299991607666, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:09:49.186015+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "dce992f9-2643-4829-8458-09672b9a4e2a"
+  }, 
+  {
+    "Temperature": 26.15999984741211, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:10:20.114864+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "8447fb5d-ac91-492b-984b-dfe64a55d67c"
+  }, 
+  {
+    "Temperature": 26.040000915527344, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:09:18.276134+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "1889b6a2-f9ce-4105-851b-ca4e1aad701b"
+  }, 
+  {
+    "Temperature": 27.90999984741211, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:22:25.692676+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "6df66055-6523-4e9b-ad00-c62ef7568106"
+  }, 
+  {
+    "Temperature": 27.850000381469727, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:22:43.850576+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "c2e8f3fa-acee-4d65-9ee4-1971ef4d7227"
+  }, 
+  {
+    "Temperature": 26.3799991607666, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:40:50.193666+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "35a9e3fc-749a-40ed-b35e-22cf708fe62a"
+  }, 
+  {
+    "Temperature": 26.5, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:41:17.230251+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "1d847190-1b18-48a2-8ad9-3fcb8974d4a9"
+  }, 
+  {
+    "Temperature": 25.309999465942383, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T00:56:56.202733+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "53b9c8f6-b4aa-41da-82f1-408a056e8ab5"
+  }, 
+  {
+    "Temperature": 25.309999465942383, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T00:57:05.003478+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "eafcdb44-641e-4da9-afd7-03b3b90f0b86"
+  }, 
+  {
+    "Temperature": 27.450000762939453, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:20:47.293098+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "24044431-935c-497d-b23a-9a22aa068c02"
+  }, 
+  {
+    "Temperature": 27.75, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:21:28.190215+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "8c224973-b62b-4ed7-89b5-2dc24a57335f"
+  }, 
+  {
+    "Temperature": 27.889999389648438, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:21:40.742455+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "e86b408e-a730-493a-aab5-d707dd3c6d18"
+  }, 
+  {
+    "Temperature": 26.299999237060547, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:10:51.051844+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "0c463aea-325f-4f72-bc21-07a6d15694fb"
+  }, 
+  {
+    "Temperature": 26.3799991607666, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:11:21.952573+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "cf24b178-3bc7-4f30-8882-bce68e1b42b5"
+  }, 
+  {
+    "Temperature": 26.479999542236328, 
+    "Anonymized": true, 
+    "Timestamp": "2016-10-22T01:11:52.858671+00:00", 
+    "DeviceId": "e009d040232a2b50", 
+    "$type": "Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android", 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "1ee07b11-f801-42cc-a7a8-b3aeca4f7286"
+  }
+]
