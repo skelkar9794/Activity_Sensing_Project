@@ -1,0 +1,72 @@
+[
+  {
+    "Anonymized": true, 
+    "$type": "Sensus.Shared.Probes.Movement.SpeedDatum, Sensus.Android", 
+    "DeviceId": "880bc1756f4bb124", 
+    "Timestamp": "2016-11-04T02:25:49.604+00:00", 
+    "KPH": 0.022478133079615274, 
+    "ProtocolId": "4624bee1-da5e-4456-8631-b99ee6d6debb", 
+    "Id": "20d31b28-e06b-4c50-bafe-ba139c4081fd", 
+    "Accuracy": 0.0025763807352632284
+  }, 
+  {
+    "Anonymized": true, 
+    "$type": "Sensus.Shared.Probes.Movement.SpeedDatum, Sensus.Android", 
+    "DeviceId": "880bc1756f4bb124", 
+    "Timestamp": "2016-11-04T03:02:37.999+00:00", 
+    "KPH": 4.512290075318676, 
+    "ProtocolId": "4624bee1-da5e-4456-8631-b99ee6d6debb", 
+    "Id": "51b2bb00-5a75-4223-8142-dd44b4261296", 
+    "Accuracy": 10.523077011108398
+  }, 
+  {
+    "Anonymized": true, 
+    "$type": "Sensus.Shared.Probes.Movement.SpeedDatum, Sensus.Android", 
+    "DeviceId": "880bc1756f4bb124", 
+    "Timestamp": "2016-11-04T13:04:23.077+00:00", 
+    "KPH": 0.05479722891865132, 
+    "ProtocolId": "4624bee1-da5e-4456-8631-b99ee6d6debb", 
+    "Id": "1965b507-49ba-4d2d-be2e-9a4f8bfed023", 
+    "Accuracy": 0.010170314460992813
+  }, 
+  {
+    "Anonymized": true, 
+    "$type": "Sensus.Shared.Probes.Movement.SpeedDatum, Sensus.Android", 
+    "DeviceId": "880bc1756f4bb124", 
+    "Timestamp": "2016-11-04T13:04:45.999+00:00", 
+    "KPH": 3.5326377056382605, 
+    "ProtocolId": "4624bee1-da5e-4456-8631-b99ee6d6debb", 
+    "Id": "4aaed283-788f-4071-aa30-14c717e7dec1", 
+    "Accuracy": 16.01954460144043
+  }, 
+  {
+    "Anonymized": true, 
+    "$type": "Sensus.Shared.Probes.Movement.SpeedDatum, Sensus.Android", 
+    "DeviceId": "880bc1756f4bb124", 
+    "Timestamp": "2016-11-04T13:04:45.999+00:00", 
+    "KPH": 3.5326377056382605, 
+    "ProtocolId": "4624bee1-da5e-4456-8631-b99ee6d6debb", 
+    "Id": "7586028b-7921-4230-ab35-1d0dde021cb6", 
+    "Accuracy": 16.01954460144043
+  }, 
+  {
+    "Anonymized": true, 
+    "$type": "Sensus.Shared.Probes.Movement.SpeedDatum, Sensus.Android", 
+    "DeviceId": "880bc1756f4bb124", 
+    "Timestamp": "2016-11-04T03:02:24.999+00:00", 
+    "KPH": 0.047591038881903705, 
+    "ProtocolId": "4624bee1-da5e-4456-8631-b99ee6d6debb", 
+    "Id": "fb268530-9f65-4f38-9878-086c9a7dd379", 
+    "Accuracy": 0.10494694858789444
+  }, 
+  {
+    "Anonymized": true, 
+    "$type": "Sensus.Shared.Probes.Movement.SpeedDatum, Sensus.Android", 
+    "DeviceId": "880bc1756f4bb124", 
+    "Timestamp": "2016-11-04T03:02:24.999+00:00", 
+    "KPH": 0.047591038881903705, 
+    "ProtocolId": "4624bee1-da5e-4456-8631-b99ee6d6debb", 
+    "Id": "9ff991c9-3dfa-4741-9e21-a6d19c9ef636", 
+    "Accuracy": 0.10494694858789444
+  }
+]
