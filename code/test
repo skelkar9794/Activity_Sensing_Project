@@ -1,0 +1,55 @@
+0.5625 - heb3 - f - 200 and s - 100
+
+
+f - 200 and s - 50
+knn
+0.59 - heb3
+0.38 - class2
+0.23 - class1
+0.90 - rec1
+0.35 (svm) - pcl_j
+
+after removing speed data:
+
+rf = 0.96, knn = 0.48 for heb3 with jayant_pcl
+knn = 0.23 - class1
+knn = 0.38 - class2
+
+After adding class3 and class4
+
+knn = 0.55, svm =1, rf = 0.36 - class2
+knn = 0.87, svm = 1, rf =0.28 - class1
+
+when frame = 150 and step =50
+
+knn = 0.88, rf = 0.70, svm = 1 for class1
+
+After adding heb4
+
+knn = 0.27, rf = 0.82 - heb3
+knn = 0.38, rf = 0.11 - heb4
+knn = 0.28, rf = 0.59 - heb1
+knn = 0.89, rf = 0.07 - class1
+
+frame = 150, step = 25
+
+knn = 0.17, rf =0.47 - heb1
+
+frame = 150, step = 40
+
+knn = 0.23, rf = 0.41 - heb1
+knn = 0.33, rf = 0.70 - heb3
+
+frame = 75, step = 50
+
+knn = 0.13, rf =0.86 - heb3
+knn = 0.34, rf = 0.59 -heb1
+svm = 0.94, rf = 0.59, knn = 0.75 - class1
+svm = 0.97, rf = 0.22, knn = 0.51- class3
+
+frame = 100, step =50
+
+svm = 0.978, rf =0.37, knn = 0.82 - class1
+svm = 1, rf = 0.29, knn = 0.53 - class3
+svm = 0, rf = 0.68, knn = 0.25 - heb1
+svm = 0, rf = 0.72, knn =0.20 - heb3
