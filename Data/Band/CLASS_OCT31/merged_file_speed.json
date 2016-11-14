@@ -1,0 +1,342 @@
+[
+  {
+    "Anonymized": true, 
+    "$type": "Sensus.Shared.Probes.Movement.SpeedDatum, Sensus.Android", 
+    "DeviceId": "e009d040232a2b50", 
+    "Timestamp": "2016-10-31T15:58:30.414+00:00", 
+    "KPH": 2.369471522757557, 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "e266823c-0d2d-4fe3-9e49-9f51b839aeed", 
+    "Accuracy": 2.078979253768921
+  }, 
+  {
+    "Anonymized": true, 
+    "$type": "Sensus.Shared.Probes.Movement.SpeedDatum, Sensus.Android", 
+    "DeviceId": "e009d040232a2b50", 
+    "Timestamp": "2016-10-31T15:58:30.414+00:00", 
+    "KPH": 2.369471522757557, 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "283aef34-dfea-4b67-9f5c-a7fdb6944801", 
+    "Accuracy": 2.078979253768921
+  }, 
+  {
+    "Anonymized": true, 
+    "$type": "Sensus.Shared.Probes.Movement.SpeedDatum, Sensus.Android", 
+    "DeviceId": "e009d040232a2b50", 
+    "Timestamp": "2016-10-31T15:58:50.45+00:00", 
+    "KPH": 5.502589516616473, 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "0885290c-4b4d-4945-80be-74bdd7964d73", 
+    "Accuracy": 10.376322746276855
+  }, 
+  {
+    "Anonymized": true, 
+    "$type": "Sensus.Shared.Probes.Movement.SpeedDatum, Sensus.Android", 
+    "DeviceId": "e009d040232a2b50", 
+    "Timestamp": "2016-10-31T15:58:50.45+00:00", 
+    "KPH": 5.502589516616473, 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "54c0eeb4-ead9-4000-a301-8e5782fbd07c", 
+    "Accuracy": 10.376322746276855
+  }, 
+  {
+    "Anonymized": true, 
+    "$type": "Sensus.Shared.Probes.Movement.SpeedDatum, Sensus.Android", 
+    "DeviceId": "e009d040232a2b50", 
+    "Timestamp": "2016-10-31T15:59:10.46+00:00", 
+    "KPH": 5.474600812295548, 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "74d12d82-ce05-4a89-a065-126643dfc443", 
+    "Accuracy": 12.593703269958496
+  }, 
+  {
+    "Anonymized": true, 
+    "$type": "Sensus.Shared.Probes.Movement.SpeedDatum, Sensus.Android", 
+    "DeviceId": "e009d040232a2b50", 
+    "Timestamp": "2016-10-31T15:59:10.46+00:00", 
+    "KPH": 5.474600812295548, 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "9442b870-63b2-4f04-b4df-cadf048b1eee", 
+    "Accuracy": 12.593703269958496
+  }, 
+  {
+    "Anonymized": true, 
+    "$type": "Sensus.Shared.Probes.Movement.SpeedDatum, Sensus.Android", 
+    "DeviceId": "e009d040232a2b50", 
+    "Timestamp": "2016-10-31T19:50:20.425+00:00", 
+    "KPH": 2.371920245647568, 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "818392c8-7213-4ff2-908e-b4377320a72e", 
+    "Accuracy": 6.420154571533203
+  }, 
+  {
+    "Anonymized": true, 
+    "$type": "Sensus.Shared.Probes.Movement.SpeedDatum, Sensus.Android", 
+    "DeviceId": "e009d040232a2b50", 
+    "Timestamp": "2016-10-31T19:50:20.425+00:00", 
+    "KPH": 2.371920245647568, 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "e4a39435-b0b2-4491-b7b7-5518f62293c5", 
+    "Accuracy": 6.420154571533203
+  }, 
+  {
+    "Anonymized": true, 
+    "$type": "Sensus.Shared.Probes.Movement.SpeedDatum, Sensus.Android", 
+    "DeviceId": "e009d040232a2b50", 
+    "Timestamp": "2016-10-31T18:44:38.678+00:00", 
+    "KPH": 0.03770315345654028, 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "1dbdc93a-2f19-4448-9259-9c865c8dd0cf", 
+    "Accuracy": 0.1020296961069107
+  }, 
+  {
+    "Anonymized": true, 
+    "$type": "Sensus.Shared.Probes.Movement.SpeedDatum, Sensus.Android", 
+    "DeviceId": "e009d040232a2b50", 
+    "Timestamp": "2016-10-31T18:44:38.678+00:00", 
+    "KPH": 0.03770315345654028, 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "aeb5954d-e500-4709-a79e-44bc484866de", 
+    "Accuracy": 0.1020296961069107
+  }, 
+  {
+    "Anonymized": true, 
+    "$type": "Sensus.Shared.Probes.Movement.SpeedDatum, Sensus.Android", 
+    "DeviceId": "e009d040232a2b50", 
+    "Timestamp": "2016-10-31T19:53:20.172+00:00", 
+    "KPH": 0.6661647371329311, 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "0fa33fd6-376e-4b2d-b1f6-b8bfcfb79ddd", 
+    "Accuracy": 1.4643782377243042
+  }, 
+  {
+    "Anonymized": true, 
+    "$type": "Sensus.Shared.Probes.Movement.SpeedDatum, Sensus.Android", 
+    "DeviceId": "e009d040232a2b50", 
+    "Timestamp": "2016-10-31T19:49:40.037+00:00", 
+    "KPH": 0.4787868778517614, 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "50f6d821-7398-480f-a943-f664b2a02e68", 
+    "Accuracy": 0.7924811244010925
+  }, 
+  {
+    "Anonymized": true, 
+    "$type": "Sensus.Shared.Probes.Movement.SpeedDatum, Sensus.Android", 
+    "DeviceId": "e009d040232a2b50", 
+    "Timestamp": "2016-10-31T19:49:40.037+00:00", 
+    "KPH": 0.4787868778517614, 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "31921c64-54cb-4cd0-ac04-3796e5aadc39", 
+    "Accuracy": 0.7924811244010925
+  }, 
+  {
+    "Anonymized": true, 
+    "$type": "Sensus.Shared.Probes.Movement.SpeedDatum, Sensus.Android", 
+    "DeviceId": "e009d040232a2b50", 
+    "Timestamp": "2016-10-31T19:19:39.506+00:00", 
+    "KPH": 1.1973082492207838, 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "da991d33-e0e4-492b-a3ec-d607f100e50b", 
+    "Accuracy": 3.367663621902466
+  }, 
+  {
+    "Anonymized": true, 
+    "$type": "Sensus.Shared.Probes.Movement.SpeedDatum, Sensus.Android", 
+    "DeviceId": "e009d040232a2b50", 
+    "Timestamp": "2016-10-31T19:19:39.506+00:00", 
+    "KPH": 1.1973082492207838, 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "be764059-a990-4f2b-b8b1-763b603043ad", 
+    "Accuracy": 3.367663621902466
+  }, 
+  {
+    "Anonymized": true, 
+    "$type": "Sensus.Shared.Probes.Movement.SpeedDatum, Sensus.Android", 
+    "DeviceId": "e009d040232a2b50", 
+    "Timestamp": "2016-10-31T19:53:20.172+00:00", 
+    "KPH": 0.6661647371329311, 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "09b4fee6-2226-489e-a591-3b1cbb17d79d", 
+    "Accuracy": 1.4643782377243042
+  }, 
+  {
+    "Anonymized": true, 
+    "$type": "Sensus.Shared.Probes.Movement.SpeedDatum, Sensus.Android", 
+    "DeviceId": "e009d040232a2b50", 
+    "Timestamp": "2016-10-31T18:52:39.323+00:00", 
+    "KPH": 4.601479456873438, 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "96be7adf-ac81-4c16-b1fb-5b6dccb7bd84", 
+    "Accuracy": 8.452288627624512
+  }, 
+  {
+    "Anonymized": true, 
+    "$type": "Sensus.Shared.Probes.Movement.SpeedDatum, Sensus.Android", 
+    "DeviceId": "e009d040232a2b50", 
+    "Timestamp": "2016-10-31T18:52:39.323+00:00", 
+    "KPH": 4.601479456873438, 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "26262f12-2e57-44d8-9d3f-f8ed56ffebfd", 
+    "Accuracy": 8.452288627624512
+  }, 
+  {
+    "Anonymized": true, 
+    "$type": "Sensus.Shared.Probes.Movement.SpeedDatum, Sensus.Android", 
+    "DeviceId": "e009d040232a2b50", 
+    "Timestamp": "2016-10-31T18:51:38.805+00:00", 
+    "KPH": 4.698791016230375, 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "67405355-f315-494f-aa0d-7211401faf3b", 
+    "Accuracy": 8.626717567443848
+  }, 
+  {
+    "Anonymized": true, 
+    "$type": "Sensus.Shared.Probes.Movement.SpeedDatum, Sensus.Android", 
+    "DeviceId": "e009d040232a2b50", 
+    "Timestamp": "2016-10-31T18:51:38.805+00:00", 
+    "KPH": 4.698791016230375, 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "363ef09c-13fc-40aa-903c-c4c96df9d9f0", 
+    "Accuracy": 8.626717567443848
+  }, 
+  {
+    "Anonymized": true, 
+    "$type": "Sensus.Shared.Probes.Movement.SpeedDatum, Sensus.Android", 
+    "DeviceId": "e009d040232a2b50", 
+    "Timestamp": "2016-10-31T18:52:18.898+00:00", 
+    "KPH": 2.344180228634424, 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "71c90c92-d9cb-4335-9967-c71b8ee17d04", 
+    "Accuracy": 4.305938720703125
+  }, 
+  {
+    "Anonymized": true, 
+    "$type": "Sensus.Shared.Probes.Movement.SpeedDatum, Sensus.Android", 
+    "DeviceId": "e009d040232a2b50", 
+    "Timestamp": "2016-10-31T18:52:18.898+00:00", 
+    "KPH": 2.344180228634424, 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "b8bef4ab-0bfd-4b86-998e-81a1b4488523", 
+    "Accuracy": 4.305938720703125
+  }, 
+  {
+    "Anonymized": true, 
+    "$type": "Sensus.Shared.Probes.Movement.SpeedDatum, Sensus.Android", 
+    "DeviceId": "e009d040232a2b50", 
+    "Timestamp": "2016-10-31T19:18:19.522+00:00", 
+    "KPH": 0.06558117635684846, 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "fa6665eb-d0bd-44d8-b776-333800137a70", 
+    "Accuracy": 0.18447467684745789
+  }, 
+  {
+    "Anonymized": true, 
+    "$type": "Sensus.Shared.Probes.Movement.SpeedDatum, Sensus.Android", 
+    "DeviceId": "e009d040232a2b50", 
+    "Timestamp": "2016-10-31T19:18:19.522+00:00", 
+    "KPH": 0.06558117635684846, 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "bb9c5477-b444-422f-9ffb-8ee8bd12225a", 
+    "Accuracy": 0.18447467684745789
+  }, 
+  {
+    "Anonymized": true, 
+    "$type": "Sensus.Shared.Probes.Movement.SpeedDatum, Sensus.Android", 
+    "DeviceId": "e009d040232a2b50", 
+    "Timestamp": "2016-10-31T18:50:58.884+00:00", 
+    "KPH": 0.3149374628633766, 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "04dc703f-aab1-488e-b970-35aa65868ebc", 
+    "Accuracy": 0.6922647356987
+  }, 
+  {
+    "Anonymized": true, 
+    "$type": "Sensus.Shared.Probes.Movement.SpeedDatum, Sensus.Android", 
+    "DeviceId": "e009d040232a2b50", 
+    "Timestamp": "2016-10-31T18:50:58.884+00:00", 
+    "KPH": 0.3149374628633766, 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "f8659e64-296a-4698-b509-195dd04875b5", 
+    "Accuracy": 0.6922647356987
+  }, 
+  {
+    "Anonymized": true, 
+    "$type": "Sensus.Shared.Probes.Movement.SpeedDatum, Sensus.Android", 
+    "DeviceId": "e009d040232a2b50", 
+    "Timestamp": "2016-10-31T18:51:18.803+00:00", 
+    "KPH": 4.718370295026857, 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "6a234145-e0de-4b68-a74e-5c7f5f5983b6", 
+    "Accuracy": 8.661398887634277
+  }, 
+  {
+    "Anonymized": true, 
+    "$type": "Sensus.Shared.Probes.Movement.SpeedDatum, Sensus.Android", 
+    "DeviceId": "e009d040232a2b50", 
+    "Timestamp": "2016-10-31T18:51:18.803+00:00", 
+    "KPH": 4.718370295026857, 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "7bbd647d-9fff-48d4-afb0-790a4b3714d4", 
+    "Accuracy": 8.661398887634277
+  }, 
+  {
+    "Anonymized": true, 
+    "$type": "Sensus.Shared.Probes.Movement.SpeedDatum, Sensus.Android", 
+    "DeviceId": "e009d040232a2b50", 
+    "Timestamp": "2016-10-31T19:45:59.071+00:00", 
+    "KPH": 0.9119056452097781, 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "698d5127-7b05-4bdf-b8b3-87335819d4cb", 
+    "Accuracy": 2.563591480255127
+  }, 
+  {
+    "Anonymized": true, 
+    "$type": "Sensus.Shared.Probes.Movement.SpeedDatum, Sensus.Android", 
+    "DeviceId": "e009d040232a2b50", 
+    "Timestamp": "2016-10-31T19:45:59.071+00:00", 
+    "KPH": 0.9119056452097781, 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "126360ce-8f4a-4a74-b723-c5daf2131fcb", 
+    "Accuracy": 2.563591480255127
+  }, 
+  {
+    "Anonymized": true, 
+    "$type": "Sensus.Shared.Probes.Movement.SpeedDatum, Sensus.Android", 
+    "DeviceId": "e009d040232a2b50", 
+    "Timestamp": "2016-10-31T19:46:19.954+00:00", 
+    "KPH": 69.85131417730355, 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "48a431c8-496c-4ebd-90c5-608e3ff05d8a", 
+    "Accuracy": 193.423583984375
+  }, 
+  {
+    "Anonymized": true, 
+    "$type": "Sensus.Shared.Probes.Movement.SpeedDatum, Sensus.Android", 
+    "DeviceId": "e009d040232a2b50", 
+    "Timestamp": "2016-10-31T19:46:19.954+00:00", 
+    "KPH": 69.85131417730355, 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "efdcf0b2-fb07-475d-9c13-46189d1ee672", 
+    "Accuracy": 193.423583984375
+  }, 
+  {
+    "Anonymized": true, 
+    "$type": "Sensus.Shared.Probes.Movement.SpeedDatum, Sensus.Android", 
+    "DeviceId": "e009d040232a2b50", 
+    "Timestamp": "2016-10-31T18:53:59.263+00:00", 
+    "KPH": 1.175696996580435, 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "5f98e78d-41ef-4559-8d9d-1522840ccaaf", 
+    "Accuracy": 2.1592342853546143
+  }, 
+  {
+    "Anonymized": true, 
+    "$type": "Sensus.Shared.Probes.Movement.SpeedDatum, Sensus.Android", 
+    "DeviceId": "e009d040232a2b50", 
+    "Timestamp": "2016-10-31T18:53:59.263+00:00", 
+    "KPH": 1.175696996580435, 
+    "ProtocolId": "df463a57-fd92-4d66-b6ca-683dfa1c2cb4", 
+    "Id": "7d2a8e99-1fec-4f4c-a4b4-49c3e8c6d18f", 
+    "Accuracy": 2.1592342853546143
+  }
+]

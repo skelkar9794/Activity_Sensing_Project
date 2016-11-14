@@ -1,0 +1,4 @@
+[
+{"$type":"Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android","Temperature":28.3700008392334,"Id":"cfd10178-ba97-469b-a6c9-29d9c6b99ab4","DeviceId":"880bc1756f4bb124","Timestamp":"2016-11-04T19:51:59.990751+00:00","ProtocolId":"4624bee1-da5e-4456-8631-b99ee6d6debb","Anonymized":true},
+{"$type":"Sensus.Shared.Probes.User.MicrosoftBand.MicrosoftBandSkinTemperatureDatum, Sensus.Android","Temperature":28.360000610351563,"Id":"4259b3e7-58b7-4b35-89d5-9da10d76821c","DeviceId":"880bc1756f4bb124","Timestamp":"2016-11-04T19:52:30.065613+00:00","ProtocolId":"4624bee1-da5e-4456-8631-b99ee6d6debb","Anonymized":true}
+]

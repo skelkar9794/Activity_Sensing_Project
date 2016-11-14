@@ -1,0 +1,4 @@
+[
+{"$type":"Sensus.Shared.Probes.Movement.SpeedDatum, Sensus.Android","KPH":5.0872134565131866,"Accuracy":4.97203254699707,"Id":"ddfe44f7-5974-40c6-88fb-135d38710970","DeviceId":"880bc1756f4bb124","Timestamp":"2016-11-13T18:06:24.999+00:00","ProtocolId":"4624bee1-da5e-4456-8631-b99ee6d6debb","Anonymized":true},
+{"$type":"Sensus.Shared.Probes.Movement.SpeedDatum, Sensus.Android","KPH":5.0872134565131866,"Accuracy":4.97203254699707,"Id":"657f5392-5e39-4c44-9f38-5fa68018297e","DeviceId":"880bc1756f4bb124","Timestamp":"2016-11-13T18:06:24.999+00:00","ProtocolId":"4624bee1-da5e-4456-8631-b99ee6d6debb","Anonymized":true}
+]
